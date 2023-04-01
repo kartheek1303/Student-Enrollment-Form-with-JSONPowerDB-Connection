@@ -55,7 +55,7 @@ JsonPowerDB (JPDB) has several unique features that set it apart from other data
 
 ### Scope of functionalities :
 
-Examples of use : can be used foe various other platforms like Online Examination Registration , Job Application , profile creation , and many more other uses .
+Examples of use : can be scaled to be used for various different sectors which collects information of an Individual/Item.
 
 **Project status : Completed Successfully**
 
